@@ -29,7 +29,7 @@
     - couch DB
     - CA
 
-### Chain code(Smart Contract)
+### Chain Code(Smart Contract)
 
 - go 언어를 사용해 체인코드 작성
 - 배포 및 instance화 진행
